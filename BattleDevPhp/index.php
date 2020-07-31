@@ -1,5 +1,9 @@
 <?php
 
+/* Liens Stackoverflow
+ * https://stackoverflow.com/questions/51003775/a-non-well-formed-numeric-value-encountered-error-in-php
+ */
+
 define('FILENUM', 3);
 
 $input = file_get_contents('../exercices/BattleDev S11 - Mars 2018/Exercice 2 - Buffet a volonte/input' . FILENUM . '.txt');
