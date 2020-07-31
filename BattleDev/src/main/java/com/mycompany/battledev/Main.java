@@ -27,7 +27,7 @@ public class Main {
      */
     public static void main(String[] args) {
         try {
-            BufferedReader reader = new BufferedReader(new FileReader("..\\exercices\\BattleDev S11 - Mars 2018\\Exercice 1 - Le meilleur restaurant\\input3.txt"));
+            BufferedReader reader = new BufferedReader(new FileReader("..\\exercices\\BattleDev S11 - Mars 2018\\Exercice 1 - Le meilleur restaurant\\input1.txt"));
             String line;
             double bestNote = 0;
             while ((line = reader.readLine()) != null) {
